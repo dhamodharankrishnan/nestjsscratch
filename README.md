@@ -28,3 +28,12 @@ npx ts-node-dev src/main.ts
 gh repo clone dhamodharankrishnan/nestjsscratch
 
 ssh-add --apple-use-keychain ~/.ssh/id_dhamo_personal
+
+##  Get with Controller 
+
+### Hello
+http://localhost:3000/app/hello
+
+### Bye
+http://localhost:3000/app/bye
+
